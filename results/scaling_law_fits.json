@@ -1,0 +1,44 @@
+{
+  "global_fit": {
+    "eps_inf": 0.0996,
+    "eps_inf_se": 0.0073,
+    "B": 0.5866,
+    "B_se": 0.0554,
+    "alpha": 0.2227,
+    "alpha_se": 0.0212,
+    "R2": 0.9962
+  },
+  "per_seed_fits": {
+    "2021": {
+      "eps_inf": 0.1048,
+      "B": 0.668,
+      "alpha": 0.2454
+    },
+    "2022": {
+      "eps_inf": 0.0696,
+      "B": 0.4591,
+      "alpha": 0.1581
+    },
+    "2023": {
+      "eps_inf": 0.1119,
+      "B": 0.6966,
+      "alpha": 0.2622
+    }
+  },
+  "bootstrap_statistics": {
+    "mean_alpha": 0.2219,
+    "std_alpha": 0.0559,
+    "se_alpha": 0.0323,
+    "confidence_interval_95": [
+      0.1587,
+      0.2851
+    ]
+  },
+  "manifold_geometry": {
+    "two_nn_intrinsic_dimension": 10.5,
+    "pca_effective_rank_95": 10,
+    "theoretical_bound_pca": 0.1667,
+    "theoretical_bound_two_nn": 0.16,
+    "bound_satisfied": false
+  }
+}
