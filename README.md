@@ -4,7 +4,7 @@
 ---
 ## 📌 Overview
 
-This repository contains the official, anonymized implementation of **TS-RAG** and **CAVIR** (*Calibrated, Invariance-Aware, Selective Retrieval-Augmented Forecasting*). 
+This repository contains the official, anonymized implementation of **CAVIR** (*Calibrated, Invariance-Aware, Selective Retrieval-Augmented Forecasting*). 
 
 Standard retrieval-augmented forecasting frequently suffers from **neighborhood over-smoothing**, degrading accuracy on **41.59% to 49.62%** of individual planning horizons. Furthermore, under non-stationary macroeconomic shocks, standard quantile ensembling collapses nominal interval coverage (\\(80\% \to 61.3\%\\)). 
 
@@ -20,7 +20,7 @@ Standard retrieval-augmented forecasting frequently suffers from **neighborhood 
 ## 📂 Repository Layout
 
 ```
-anonymous-ts-rag/
+anonymous-cavir/
 ├── README.md                          ← Master operational guide & reproduction runbook
 ├── requirements.txt                   ← Python dependency specification
 ├── environment.yml                    ← Conda environment specification
