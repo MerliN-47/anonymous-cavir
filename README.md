@@ -1,5 +1,5 @@
 
-# TS-RAG: Retrieval-Augmented Generation for Time Series Forecasting
+# Retrieval Is Density Estimation: Calibrated, Invariant, and Selective Retrieval-Augmented Forecasting
 *(Anonymized Codebase for Double-Blind Peer Review)*
 ---
 ## 📌 Overview
